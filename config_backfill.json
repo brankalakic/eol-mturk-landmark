@@ -1,0 +1,38 @@
+{
+    "__message": "Please <b><a href='protocol/protocol.html' target='_blank'>read the instructions</a></b> before you start! <b>NOTE</b>: This is a reduced set of points from the full protocol. Please ensure you are marking the correct points, namely those involving the jaws, opercular series, and the caudal fin.",
+    "J3": {
+        "kind": "point",
+        "anchor": "mouth",
+        "help": "Click the tip of the lower jaw."
+    },
+    "O1": {
+        "kind": "point",
+        "anchor": "operculum",
+        "help": "Click the top point of the preopercle. This may not be visible in certain fishes, if it is not, place the point at the top-left corner of the image and mark the point as missing below."
+    },
+    "O2": {
+        "kind": "point",
+        "anchor": "operculum",
+        "help": "Click the posterior (rearward) \"elbow\" of the preopercle. This may not be visible in certain fishes, if it is not, place the point at the top-left corner of the image and mark the point as missing below."
+    },
+    "O3": {
+        "kind": "point",
+        "anchor": "operculum",
+        "help": "Click the bottom point of the preopercle. (This can also be estimated as the length of the lower jaw). This may not be visible in certain fishes, if it is not, place the point at the top-left corner of the image and mark the point as missing below."
+    },
+    "C2": {
+        "kind": "point",
+        "anchor": "caudal-fin",
+        "help": "Click the distal tip of the caudal fin's uppermost principal fin ray."
+    },
+    "C3": {
+        "kind": "point",
+        "anchor": "caudal-fin",
+        "help": "Click the distal tip of the caudal fin's lowermost principal fin ray."
+    },
+    "C6": {
+        "kind": "point",
+        "anchor": "caudal-fin",
+        "help": "Click the distal tip of the caudal fin's middle fin rays (between C2 and C3)"
+    }
+}

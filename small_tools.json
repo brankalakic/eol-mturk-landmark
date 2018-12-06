@@ -1,0 +1,82 @@
+{
+    "J1": {
+        "kind": "point",
+        "anchor": "mouth",
+        "help": "Click the tip of the upper jaw."
+    },
+    "J2": {
+        "kind": "point",
+        "anchor": "mouth",
+        "help": "The ventral (lower) tip of the upper jaw."
+    },
+    "E1": {
+        "kind": "point",
+        "anchor": "eye",
+        "help": "Click the most anterior (forward) margin of the eye at its widest diameter."
+    },
+    "E2": {
+        "kind": "point",
+        "anchor": "eye",
+        "help": "Click the most posterior (rearward) margin of the eye at its widest diameter."
+    },
+    "O4": {
+        "kind": "point",
+        "anchor": "operculum",
+        "help": "Click the top point of the operculum (gill cover)."
+    },
+    "O5": {
+        "kind": "point",
+        "anchor": "operculum",
+        "help": "Click the posterior (rearward) point of the operculum (gill cover)."
+    },
+    "P1": {
+        "kind": "point",
+        "anchor": "pectoral-fin",
+        "help": "Click the base of the pectoral fin's top fin ray."
+    },
+    "P4": {
+        "kind": "point",
+        "anchor": "pectoral-fin",
+        "help": "Click the base of the pectoral fin's bottom fin ray."
+    },
+    "D1": {
+        "kind": "point",
+        "anchor": "dorsal-fin",
+        "help": "Click the base of the dorsal fin's anterior (forward) fin ray."
+    },
+    "D4": {
+        "kind": "point",
+        "anchor": "dorsal-fin",
+        "help": "Click the base of the dorsal fin's posterior (rearward) fin ray."
+    },
+    "C1": {
+        "kind": "point",
+        "anchor": "caudal-fin",
+        "help": "Click the base of the caudal fin's uppermost principal fin ray."
+    },
+    "C4": {
+        "kind": "point",
+        "anchor": "caudal-fin",
+        "help": "Click the base of the caudal fin's lowermost principal fin ray."
+    },
+    "C5": {
+        "kind": "point",
+        "anchor": "caudal-fin",
+        "help": "Click the midpoint of the base of the tail (between C1 and C4)."
+    },
+    "A1": {
+        "kind": "point",
+        "anchor": "anal-fin",
+        "help": "Click the base of the anal fin's anterior (forward) fin ray."
+    },
+    "A4": {
+        "kind": "point",
+        "anchor": "anal-fin",
+        "help": "Click the base of the anal fin's posterior (rearward) fin ray."
+    },
+    "V1": {
+        "kind": "line",
+        "anchor": "measurements",
+        "help": "Click and drag the longest straight line that can be drawn through the fish from top to the bottom, excluding fins."
+    }
+}
